@@ -1,5 +1,3 @@
-# Swat4-user.ini-file-online-keybinds
-These are keybinds for SWAT4 but for SEFv7 only. Used for online modes. U can change the text of the binds I have put in. Enjoy!
                                                                           INSTALLATION
 
 1. Download file
